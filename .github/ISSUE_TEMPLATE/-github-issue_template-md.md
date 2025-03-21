@@ -1,6 +1,6 @@
 ---
 name: ".github/ISSUE_TEMPLATE.md"
-about: Describe this issue template's purpose here.
+about: 'Issue '
 title: ''
 labels: ''
 assignees: ''
